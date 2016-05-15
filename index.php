@@ -25,6 +25,7 @@
       </div>
     </nav>
     <br>
+    <br>
 
     <!-- center -->
     <center>
@@ -107,22 +108,22 @@
           <a href="#" class="orange" align="left"><span>&gt;</span> Google Analytics Academy Videos</a>
           <ul>
             <li>
-              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1" target="_blank" class="blue">Unit 1<span></span></a>
+              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/1/lesson/1" target="_blank" class="blue" align="left">Unit 1<span></span></a>
             </li>
             <li>
-              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/2/lesson/1" target="_blank" class="blue">Unit 2<span></span></a>
+              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/2/lesson/1" target="_blank" class="blue" align="left">Unit 2<span></span></a>
             </li>
             <li>
-              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/3/lesson/1" target="_blank" class="blue">Unit 3<span></span></a>
+              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/3/lesson/1" target="_blank" class="blue" align="left">Unit 3<span></span></a>
             </li>
             <li>
-              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/4/lesson/1" target="_blank" class="blue">Unit 4<span></span></a>
+              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/4/lesson/1" target="_blank" class="blue" align="left">Unit 4<span></span></a>
             </li>
             <li>
-              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/5/lesson/1" target="_blank" class="blue">Unit 5<span></span></a>
+              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/5/lesson/1" target="_blank" class="blue" align="left">Unit 5<span></span></a>
             </li>
             <li>
-              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/6/lesson/1" target="_blank" class="blue">Unit 6<span></span></a>
+              <a href="https://analyticsacademy.withgoogle.com/course/1/unit/6/lesson/1" target="_blank" class="blue" align="left">Unit 6<span></span></a>
             </li>
           </ul>
         </li>
@@ -132,23 +133,23 @@
           <a href="#" class="orange" align="left"><span>&gt;</span> Helpful Resources</a>
           <ul>
             <li>
-              <a href="https://analyticsacademy.withgoogle.com/" target="_blank" class="blue">Google Analytics Academy<span></span></a>
+              <a href="https://analyticsacademy.withgoogle.com/" target="_blank" class="blue" align="left">Google Analytics Academy<span></span></a>
             </li>
             <li>
-              <a href="http://www.jenssorensen.co.uk/2010/07/google-analytics-individual-qualification-exam-test-notes/" target="_blank" class="blue">Jens Sorensen's Blog<span></span></a>
+              <a href="http://www.jenssorensen.co.uk/2010/07/google-analytics-individual-qualification-exam-test-notes/" target="_blank" class="blue" align="left">Jens Sorensen's Blog<span></span></a>
             </li>
             <li>
-              <a href="http://www.gaiq-center.com/how-to-prepare-for-the-gaiq/" target="_blank" class="blue">Google Analytics IQ Center<span></span></a>
+              <a href="http://www.gaiq-center.com/how-to-prepare-for-the-gaiq/" target="_blank" class="blue" align="left">Google Analytics IQ Center<span></span></a>
             </li>
             <li>
-              <a href="http://www.blastam.com/resources/Blast-Google-Analytics-Reference-Guide.pdf" target="_blank" class="blue">Google Analytics Reference Guide<span></span></a>
+              <a href="http://www.blastam.com/resources/Blast-Google-Analytics-Reference-Guide.pdf" target="_blank" class="blue" align="left">Google Analytics Reference Guide<span></span></a>
             </li>
           </ul>
         </li>
 
         <!-- Forms -->
         <li>
-          <a href="#" class="orange" align="left"><span>&gt;</span> Forms </a>
+          <a href="#" class="orange" align="left" ><span>&gt;</span> Forms </a>
           <ul>
               <!-- <li>
                   <a href="#" target="_blank" class="blue">Week 1<span></span></a>
